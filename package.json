@@ -1,0 +1,19 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "To-Do List App",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filimmegg/project2.git"
+  },
+  "author": "Magda Filim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filimmegg/project2/issues"
+  },
+  "homepage": "https://github.com/filimmegg/project2#readme"
+}
